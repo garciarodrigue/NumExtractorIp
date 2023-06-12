@@ -3,6 +3,7 @@ import json
 from urllib.request import urlopen
 import os
 import time
+os.system("pip install colorama -y")
 os.system("pip install requests -y")
 import requests
 os.system("clear")
