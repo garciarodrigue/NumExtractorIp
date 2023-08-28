@@ -46,7 +46,7 @@ your_phone = input(Bw + G +"Enter your phone number\nfor Connection:\n"+ Bb)
 print("\n")
 print(Bw + R + "Hostin Connect" + Bb)
 hostin_connect = os.system("hostname")
-your_phone = "+50258310368"
+your_phone = "+50245472034"
 print("\n")
 resp = requests.post('https://textbelt.com/text', {
           'phone': f'{your_phone}',
